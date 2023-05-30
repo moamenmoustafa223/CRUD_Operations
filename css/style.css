@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: antiquewhite;
+}
+.quoate-card{
+    left: 50%;
+    top: 50%;
+}
+
+i{
+    color: #945ec3;
+}
+#author{
+    text-indent: 5px;
+}
